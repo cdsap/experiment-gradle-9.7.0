@@ -14,7 +14,7 @@ plugins {
 }
 rootProject.name = "androidRectangle100modules"
 develocity {
-    server = "https://ge.solutions-team.gradle.com/"
+    server = "https://solutions.develocity.cloud/"
     allowUntrustedServer = true
     buildScan {
         uploadInBackground.set(false)
